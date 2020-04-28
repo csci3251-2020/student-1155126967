@@ -15,3 +15,6 @@ my name is Yeung Ching Fung, John, and I am a computer science student in The Ch
 Github username | Gerder | age
 --- | --- | ---
 JohnYeung-dojjy | male | 19 
+
+PIC:
+![alt text](https://github.com/csci3251-2020/student-1155126967/blob/master/project%20milestone%202.png)
