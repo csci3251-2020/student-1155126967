@@ -5,13 +5,11 @@ my name is Yeung Ching Fung, John, and I am a computer science student in The Ch
 *I love anime*
 
 2. ## A fews things that I want to do in my uni years
-1. [x] learn basic of c
-2. [x] learn basic of java
-3. [ ] learn basic of c++
-4. [ ] learn basic of web development
-5. [ ] develop an app
-
-
+ - [x] learn basic of c
+ - [x] learn basic of java
+ - [ ] learn basic of c++
+ - [ ] learn basic of web development
+ - [ ] develop an app
 
 3. ## my info
 Github username | Gerder | age
